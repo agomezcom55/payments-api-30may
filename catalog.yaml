@@ -2,8 +2,8 @@
 projects:
   - main: payments-oas.yaml
     assetId: invoice-payment-system-api
-    version: 2.1.0
-    apiVersion: v2
+    version: 1.1.0
+    apiVersion: v1
     contact:
       name: 'Albert Gomez'
       email: 'agomezcom@universalcompany.com'
